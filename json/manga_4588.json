@@ -1,0 +1,88 @@
+{
+    manga: {
+        id: "4588",
+        name: " Junjou Drop",
+        aname: "Romantic Drop",
+        year_between: "2011",
+        status: "Completed",
+        author: "NAKAHARA Aya",
+        artist: "NAKAHARA Aya",
+        genre: "Comedy,Romance,Shoujo",
+        rd: "Right to Left",
+        summary: "Recently rejected Saki Momota is having a hard time getting over her first love. While picking up her younger brother from school, Saki bumps into Akai Ryuuichi; the class delinquent whos rumored to be able to shoot lazer-beams from his eyes. Could this day get any worse?",
+        hit: "100",
+        coverlarge: "http://s5.mangapanda.com/cover/junjou-drop/junjou-drop-l0.jpg"
+    },
+    chapters: [{
+        chapter: "1",
+        chapter_name: "",
+        adddate: "2012-11-13 18:11:01"
+    }, {
+        chapter: "2",
+        chapter_name: "",
+        adddate: "2013-08-05 14:41:01"
+    }, {
+        chapter: "3",
+        chapter_name: "",
+        adddate: "2013-08-05 14:42:01"
+    }, {
+        chapter: "4",
+        chapter_name: "END",
+        adddate: "2013-08-05 14:42:09"
+    }],
+    related: [{
+        name: "Oresama Teacher",
+        coverid: "0",
+        mangalink: "/oresama-teacher",
+        coverimg: "http://s2.mangapanda.com/cover/oresama-teacher/oresama-teacher-m0.jpg",
+        genre: "School Life,Shoujo"
+    }, {
+        name: "Faster than a Kiss",
+        coverid: "0",
+        mangalink: "/faster-than-a-kiss",
+        coverimg: "http://s2.mangapanda.com/cover/faster-than-a-kiss/faster-than-a-kiss-m0.jpg",
+        genre: "Comedy,Drama,Romance,Shoujo"
+    }, {
+        name: "Watashi ni xx Shinasai!",
+        coverid: "0",
+        mangalink: "/watashi-ni-xx-shinasai",
+        coverimg: "http://s2.mangapanda.com/cover/watashi-ni-xx-shinasai/watashi-ni-xx-shinasai-m0.jpg",
+        genre: "Shoujo"
+    }, {
+        name: "Ojousama wa Oyomesama",
+        coverid: "0",
+        mangalink: "/ojousama-wa-oyomesama",
+        coverimg: "http://s3.mangapanda.com/cover/ojousama-wa-oyomesama/ojousama-wa-oyomesama-m0.jpg",
+        genre: "Romance"
+    }, {
+        name: "Assassination Classroom",
+        coverid: "0",
+        mangalink: "/assassination-classroom",
+        coverimg: "http://s3.mangapanda.com/cover/assassination-classroom/assassination-classroom-m0.jpg",
+        genre: "Action,Comedy,Shounen"
+    }, {
+        name: "Soul Cartel",
+        coverid: "0",
+        mangalink: "/soul-cartel",
+        coverimg: "http://s3.mangapanda.com/cover/soul-cartel/soul-cartel-m0.jpg",
+        genre: "Action,Adventure,Comedy,Fantasy,Shounen,Supernatural"
+    }, {
+        name: "Bokutachi Wa Shitte Shimatta",
+        coverid: "0",
+        mangalink: "/bokutachi-wa-shitte-shimatta",
+        coverimg: "http://s4.mangapanda.com/cover/bokutachi-wa-shitte-shimatta/bokutachi-wa-shitte-shimatta-m0.jpg",
+        genre: "Romance,School Life,Shoujo"
+    }, {
+        name: "Demon Lord at Work!",
+        coverid: "0",
+        mangalink: "/demon-lord-at-work",
+        coverimg: "http://s4.mangapanda.com/cover/demon-lord-at-work/demon-lord-at-work-m0.jpg",
+        genre: "Comedy,Fantasy,Romance,Shounen,Supernatural"
+    }, {
+        name: "Crepuscule",
+        coverid: "0",
+        mangalink: "/crepuscule",
+        coverimg: "http://s4.mangapanda.com/cover/crepuscule/crepuscule-m0.jpg",
+        genre: "School Life,Shoujo,Supernatural"
+    }]
+}

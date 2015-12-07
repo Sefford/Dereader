@@ -1,0 +1,4503 @@
+[{
+    mangaid: "5308",
+    manganame: "Nejimaki Kagyu",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/nejimaki-kagyu/nejimaki-kagyu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5308",
+    manganame: "Nejimaki Kagyu",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/nejimaki-kagyu/nejimaki-kagyu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1096",
+    manganame: "Baby Steps",
+    chapterno: "253",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/baby-steps/baby-steps-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2050",
+    manganame: "Migawari Hakushaku no Bouken",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/migawari-hakushaku-no-bouken/migawari-hakushaku-no-bouken-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5618",
+    manganame: "Haru x Kiyo",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/haru-x-kiyo/haru-x-kiyo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5246",
+    manganame: "Kobayashi ga Kawai Sugite Tsurai!!",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/kobayashi-ga-kawai-sugite-tsurai/kobayashi-ga-kawai-sugite-tsurai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5246",
+    manganame: "Kobayashi ga Kawai Sugite Tsurai!!",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/kobayashi-ga-kawai-sugite-tsurai/kobayashi-ga-kawai-sugite-tsurai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4818",
+    manganame: "Owari no Seraph",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/owari-no-seraph/owari-no-seraph-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4818",
+    manganame: "Owari no Seraph",
+    chapterno: "39",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/owari-no-seraph/owari-no-seraph-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4612",
+    manganame: "Montage (WATANABE Jun)",
+    chapterno: "54",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/montage-watanabe-jun/montage-watanabe-jun-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6086",
+    manganame: "Hetalia - World Stars",
+    chapterno: "124",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/hetalia-world-stars/hetalia-world-stars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6530",
+    manganame: "Da Yuan Shen",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/da-yuan-shen/da-yuan-shen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6548",
+    manganame: "Mercworks",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s2.mangapanda.com/cover/mercworks/mercworks-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5892",
+    manganame: "Wind Breaker",
+    chapterno: "49",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s2.mangapanda.com/cover/wind-breaker/wind-breaker-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5498",
+    manganame: "Lessa the Crimson Knight",
+    chapterno: "98",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s2.mangapanda.com/cover/lessa-the-crimson-knight/lessa-the-crimson-knight-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6356",
+    manganame: "THE DANEMEN",
+    chapterno: "81",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/the-danemen/the-danemen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1757",
+    manganame: "Tower of God",
+    chapterno: "259",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/tower-of-god/tower-of-god-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6716",
+    manganame: "Tales of Demons and Gods",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s3.mangapanda.com/cover/tales-of-demons-and-gods/tales-of-demons-and-gods-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6560",
+    manganame: "Dolly Kill Kill",
+    chapterno: "66",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/dolly-kill-kill/dolly-kill-kill-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "56",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4280",
+    manganame: "Pika Ichi",
+    chapterno: "24",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s4.mangapanda.com/cover/pika-ichi/pika-ichi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6266",
+    manganame: "ReLIFE",
+    chapterno: "107",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/relife/relife-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6140",
+    manganame: "Namaikizakari.",
+    chapterno: "22",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/namaikizakari/namaikizakari-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "855",
+    manganame: "+C Sword and Cornett",
+    chapterno: "50",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s5.mangapanda.com/cover/c-sword-and-cornett/c-sword-and-cornett-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3112",
+    manganame: "Not Lives",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/not-lives/not-lives-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4820",
+    manganame: "Soredemo Sekai wa Utsukushii",
+    chapterno: "42",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/soredemo-sekai-wa-utsukushii/soredemo-sekai-wa-utsukushii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2726",
+    manganame: "Keishichou Tokuhanka 007",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s1.mangapanda.com/cover/keishichou-tokuhanka-007/keishichou-tokuhanka-007-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3672",
+    manganame: "Feng Shen Ji",
+    chapterno: "172",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s2.mangapanda.com/cover/feng-shen-ji/feng-shen-ji-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3394",
+    manganame: "Verdant Lord",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "Today",
+    coverimg: "http://s2.mangapanda.com/cover/verdant-lord/verdant-lord-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "392",
+    manganame: "Sketchbook",
+    chapterno: "127",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/sketchbook/sketchbook-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5414",
+    manganame: "Seiketsu no Haguruma",
+    chapterno: "35",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/seiketsu-no-haguruma/seiketsu-no-haguruma-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6092",
+    manganame: "Hinomaru Zumou",
+    chapterno: "46",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/hinomaru-zumou/hinomaru-zumou-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2720",
+    manganame: "Monokuro Shounen Shoujo",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/monokuro-shounen-shoujo/monokuro-shounen-shoujo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "22",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "19",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6464",
+    manganame: "Deathtopia",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/deathtopia/deathtopia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "371",
+    manganame: "Kannagi",
+    chapterno: "60",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/kannagi/kannagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "371",
+    manganame: "Kannagi",
+    chapterno: "59",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/kannagi/kannagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "371",
+    manganame: "Kannagi",
+    chapterno: "58",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/kannagi/kannagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6092",
+    manganame: "Hinomaru Zumou",
+    chapterno: "45",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/hinomaru-zumou/hinomaru-zumou-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3384",
+    manganame: "Osu!! Karatebu",
+    chapterno: "137",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/osu-karatebu/osu-karatebu-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5728",
+    manganame: "Amari Mawari",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/amari-mawari/amari-mawari-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6340",
+    manganame: "Lookism",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/lookism/lookism-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6340",
+    manganame: "Lookism",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/lookism/lookism-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6340",
+    manganame: "Lookism",
+    chapterno: "50",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/lookism/lookism-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6950",
+    manganame: "The Summer of the Ubume",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/the-summer-of-the-ubume/the-summer-of-the-ubume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "343",
+    manganame: "New Prince of Tennis",
+    chapterno: "168",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/new-prince-of-tennis/new-prince-of-tennis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "343",
+    manganame: "New Prince of Tennis",
+    chapterno: "167",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/new-prince-of-tennis/new-prince-of-tennis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "343",
+    manganame: "New Prince of Tennis",
+    chapterno: "166",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s5.mangapanda.com/cover/new-prince-of-tennis/new-prince-of-tennis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "343",
+    manganame: "New Prince of Tennis",
+    chapterno: "165",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/new-prince-of-tennis/new-prince-of-tennis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6406",
+    manganame: "Average Adventures of an Average Girl",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/average-adventures-of-an-average-girl/average-adventures-of-an-average-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5120",
+    manganame: "Flow",
+    chapterno: "77",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s1.mangapanda.com/cover/flow/flow-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6632",
+    manganame: "Ad Astra - Scipio to Hannibal",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/ad-astra-scipio-to-hannibal/ad-astra-scipio-to-hannibal-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6104",
+    manganame: "Tokyo Ghoul:re",
+    chapterno: "56",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/tokyo-ghoulre/tokyo-ghoulre-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6968",
+    manganame: "Star Wars",
+    chapterno: "22",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s2.mangapanda.com/cover/star-wars/star-wars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6504",
+    manganame: "All That We Hope to Be",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/all-that-we-hope-to-be/all-that-we-hope-to-be-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4032",
+    manganame: "Girls of the Wild's",
+    chapterno: "213",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/girls-of-the-wilds/girls-of-the-wilds-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2406",
+    manganame: "Cheese in the Trap",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s3.mangapanda.com/cover/cheese-in-the-trap/cheese-in-the-trap-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "303",
+    manganame: "Drifters",
+    chapterno: "56",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/drifters/drifters-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "846",
+    manganame: "Tegami Bachi",
+    chapterno: "91",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/tegami-bachi/tegami-bachi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3166",
+    manganame: "Countach",
+    chapterno: "29",
+    hot: false,
+    new: false,
+    when: "Yesterday",
+    coverimg: "http://s4.mangapanda.com/cover/countach/countach-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5414",
+    manganame: "Seiketsu no Haguruma",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "06 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/seiketsu-no-haguruma/seiketsu-no-haguruma-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "06 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5800",
+    manganame: "Red Storm",
+    chapterno: "175",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/red-storm/red-storm-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4856",
+    manganame: "Ring ni Kakero",
+    chapterno: "10",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/ring-ni-kakero/ring-ni-kakero-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "464",
+    manganame: "KissxSis",
+    chapterno: "94",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/kissxsis/kissxsis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "464",
+    manganame: "KissxSis",
+    chapterno: "93",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/kissxsis/kissxsis-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6938",
+    manganame: "Keijo!!!!!!!!",
+    chapterno: "65",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/keijo/keijo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6938",
+    manganame: "Keijo!!!!!!!!",
+    chapterno: "64",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/keijo/keijo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6938",
+    manganame: "Keijo!!!!!!!!",
+    chapterno: "63",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/keijo/keijo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6938",
+    manganame: "Keijo!!!!!!!!",
+    chapterno: "62",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/keijo/keijo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6938",
+    manganame: "Keijo!!!!!!!!",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/keijo/keijo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4774",
+    manganame: "Aho Girl",
+    chapterno: "56",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/aho-girl/aho-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1413",
+    manganame: "The Legend of Koizumi",
+    chapterno: "73",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-legend-of-koizumi/the-legend-of-koizumi-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "1413",
+    manganame: "The Legend of Koizumi",
+    chapterno: "72",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-legend-of-koizumi/the-legend-of-koizumi-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "1413",
+    manganame: "The Legend of Koizumi",
+    chapterno: "71",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-legend-of-koizumi/the-legend-of-koizumi-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "3616",
+    manganame: "City of Dead Sorcerer",
+    chapterno: "122",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/city-of-dead-sorcerer/city-of-dead-sorcerer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5396",
+    manganame: "Cherry Boy, That Girl",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/cherry-boy-that-girl/cherry-boy-that-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6632",
+    manganame: "Ad Astra - Scipio to Hannibal",
+    chapterno: "22",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/ad-astra-scipio-to-hannibal/ad-astra-scipio-to-hannibal-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3938",
+    manganame: "Haikyu!!",
+    chapterno: "185",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/haikyu/haikyu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "203",
+    manganame: "Hayate the Combat Butler",
+    chapterno: "513",
+    hot: true,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/hayate-the-combat-butler/hayate-the-combat-butler-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "330",
+    manganame: "Akagi",
+    chapterno: "270",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/akagi/akagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6356",
+    manganame: "THE DANEMEN",
+    chapterno: "80",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/the-danemen/the-danemen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3988",
+    manganame: "Soul Cartel",
+    chapterno: "204",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/soul-cartel/soul-cartel-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6776",
+    manganame: "Our Relationship Is...",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/our-relationship-is/our-relationship-is-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6538",
+    manganame: "Into the Net!",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/into-the-net/into-the-net-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6538",
+    manganame: "Into the Net!",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/into-the-net/into-the-net-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5888",
+    manganame: "Stravaganza - Isai no Hime",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/stravaganza-isai-no-hime/stravaganza-isai-no-hime-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "55",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6752",
+    manganame: "Dorothy wa Gokigen Naname?",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/dorothy-wa-gokigen-naname/dorothy-wa-gokigen-naname-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "19",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3340",
+    manganame: "Nisekoi",
+    chapterno: "197",
+    hot: true,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/nisekoi/nisekoi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5698",
+    manganame: "Merry Bad End",
+    chapterno: "7",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/merry-bad-end/merry-bad-end-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4310",
+    manganame: "Assassination Classroom",
+    chapterno: "167",
+    hot: true,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/assassination-classroom/assassination-classroom-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "339",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "338",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "337",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "336",
+    hot: false,
+    new: false,
+    when: "05 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1632",
+    manganame: "Doubutsu no Oishasan",
+    chapterno: "65",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/doubutsu-no-oishasan/doubutsu-no-oishasan-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6094",
+    manganame: "Boku no Hero Academia",
+    chapterno: "70",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/boku-no-hero-academia/boku-no-hero-academia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6094",
+    manganame: "Boku no Hero Academia",
+    chapterno: "69",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/boku-no-hero-academia/boku-no-hero-academia-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6004",
+    manganame: "Super Doctor K",
+    chapterno: "36",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/super-doctor-k/super-doctor-k-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "4712",
+    manganame: "Shokugeki no Soma",
+    chapterno: "146",
+    hot: true,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shokugeki-no-soma/shokugeki-no-soma-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1113",
+    manganame: "Otoyomegatari",
+    chapterno: "50",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/otoyomegatari/otoyomegatari-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1447",
+    manganame: "Diamond no Ace",
+    chapterno: "307",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/diamond-no-ace/diamond-no-ace-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6782",
+    manganame: "Kaichou-kun no Shimobe",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kaichou-kun-no-shimobe/kaichou-kun-no-shimobe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5906",
+    manganame: "World Customize Creator",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/world-customize-creator/world-customize-creator-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6436",
+    manganame: "Koi To Uso",
+    chapterno: "67",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/koi-to-uso/koi-to-uso-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6436",
+    manganame: "Koi To Uso",
+    chapterno: "66",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/koi-to-uso/koi-to-uso-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4696",
+    manganame: "Toraneko Folklore",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/toraneko-folklore/toraneko-folklore-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4696",
+    manganame: "Toraneko Folklore",
+    chapterno: "26",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/toraneko-folklore/toraneko-folklore-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "12",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4266",
+    manganame: "Hero - Gyakkyou no Touhai",
+    chapterno: "11",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/hero-gyakkyou-no-touhai/hero-gyakkyou-no-touhai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2378",
+    manganame: "Noragami",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/noragami/noragami-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2378",
+    manganame: "Noragami",
+    chapterno: "60",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/noragami/noragami-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2438",
+    manganame: "The God of High School",
+    chapterno: "238",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-god-of-high-school/the-god-of-high-school-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6386",
+    manganame: "Newman",
+    chapterno: "54",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/newman/newman-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4542",
+    manganame: "I Don't Want This Kind of Hero",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/i-dont-want-this-kind-of-hero/i-dont-want-this-kind-of-hero-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6734",
+    manganame: "How to Love",
+    chapterno: "60",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/how-to-love/how-to-love-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5186",
+    manganame: "Jitsu wa Watashi wa",
+    chapterno: "103",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/jitsu-wa-watashi-wa/jitsu-wa-watashi-wa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6378",
+    manganame: "Nisekoi Doumei.",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/nisekoi-doumei/nisekoi-doumei-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1051",
+    manganame: "Koibana! Koiseyo Hanabi",
+    chapterno: "46",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/koibana-koiseyo-hanabi/koibana-koiseyo-hanabi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6214",
+    manganame: "Battle Through The Heavens",
+    chapterno: "143",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/battle-through-the-heavens/battle-through-the-heavens-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "349",
+    manganame: "Toriko",
+    chapterno: "350",
+    hot: true,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/toriko/toriko-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6992",
+    manganame: "Witch Workshop",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/witch-workshop/witch-workshop-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6398",
+    manganame: "Komori-san wa Kotowarenai!",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/komori-san-wa-kotowarenai/komori-san-wa-kotowarenai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6398",
+    manganame: "Komori-san wa Kotowarenai!",
+    chapterno: "32",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/komori-san-wa-kotowarenai/komori-san-wa-kotowarenai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6398",
+    manganame: "Komori-san wa Kotowarenai!",
+    chapterno: "31",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/komori-san-wa-kotowarenai/komori-san-wa-kotowarenai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1969",
+    manganame: "Destroy and Revolution",
+    chapterno: "62",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/destroy-and-revolution/destroy-and-revolution-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5932",
+    manganame: "Hakoiri Drops",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/hakoiri-drops/hakoiri-drops-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "94",
+    manganame: "Bleach",
+    chapterno: "654",
+    hot: true,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/bleach/bleach-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "103",
+    manganame: "One Piece",
+    chapterno: "809",
+    hot: true,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/one-piece/one-piece-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1985",
+    manganame: "Little Jumper",
+    chapterno: "42",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/little-jumper/little-jumper-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1985",
+    manganame: "Little Jumper",
+    chapterno: "42",
+    hot: false,
+    new: false,
+    when: "04 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/little-jumper/little-jumper-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6926",
+    manganame: "Fire Brigade of Flames",
+    chapterno: "10",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/fire-brigade-of-flames/fire-brigade-of-flames-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6926",
+    manganame: "Fire Brigade of Flames",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/fire-brigade-of-flames/fire-brigade-of-flames-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6344",
+    manganame: "Roppongi Black Cross",
+    chapterno: "53",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/roppongi-black-cross/roppongi-black-cross-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5764",
+    manganame: "Zerozaki Soushiki no Ningen Shiken",
+    chapterno: "11",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/zerozaki-soushiki-no-ningen-shiken/zerozaki-soushiki-no-ningen-shiken-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "857",
+    manganame: "Sidooh",
+    chapterno: "141",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/sidooh/sidooh-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "125",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "124",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "123",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "122",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "121",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "120",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "119",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "118",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "117",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1254",
+    manganame: "Mitsudomoe",
+    chapterno: "116",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/mitsudomoe/mitsudomoe-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5294",
+    manganame: "The Gamer",
+    chapterno: "110",
+    hot: true,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/the-gamer/the-gamer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6352",
+    manganame: "Kagemusha - Tokugawa Ieyasu",
+    chapterno: "37",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/kagemusha-tokugawa-ieyasu/kagemusha-tokugawa-ieyasu-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5106",
+    manganame: "Gin to Kin",
+    chapterno: "82",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/gin-to-kin/gin-to-kin-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6968",
+    manganame: "Star Wars",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/star-wars/star-wars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6734",
+    manganame: "How to Love",
+    chapterno: "59",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/how-to-love/how-to-love-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5884",
+    manganame: "Witch Hunt",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/witch-hunt/witch-hunt-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1629",
+    manganame: "under PRIN",
+    chapterno: "79",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/under-prin/under-prin-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4872",
+    manganame: "Sangokushi",
+    chapterno: "396",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/sangokushi/sangokushi-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6504",
+    manganame: "All That We Hope to Be",
+    chapterno: "60",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/all-that-we-hope-to-be/all-that-we-hope-to-be-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6716",
+    manganame: "Tales of Demons and Gods",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/tales-of-demons-and-gods/tales-of-demons-and-gods-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6716",
+    manganame: "Tales of Demons and Gods",
+    chapterno: "32",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tales-of-demons-and-gods/tales-of-demons-and-gods-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6534",
+    manganame: "Zui Wu Dao",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/zui-wu-dao/zui-wu-dao-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3254",
+    manganame: "Toukyou Lastochika",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/toukyou-lastochika/toukyou-lastochika-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3966",
+    manganame: "Clover (TETSUHIRO Hirakawa)",
+    chapterno: "250",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/clover-tetsuhiro-hirakawa/clover-tetsuhiro-hirakawa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3744",
+    manganame: "Plus Tic Neesan",
+    chapterno: "95",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/plus-tic-neesan/plus-tic-neesan-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "54",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5336",
+    manganame: "Gakkou Gurashi!",
+    chapterno: "42",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/gakkou-gurashi/gakkou-gurashi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5126",
+    manganame: "Black Haze",
+    chapterno: "137",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/black-haze/black-haze-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6194",
+    manganame: "Chichikogusa",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "03 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/chichikogusa/chichikogusa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7106",
+    manganame: "Platinum End",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/platinum-end/platinum-end-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2576",
+    manganame: "That Future Is a Lie",
+    chapterno: "64",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/that-future-is-a-lie/that-future-is-a-lie-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "701",
+    manganame: "Piano no Mori",
+    chapterno: "179",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/piano-no-mori/piano-no-mori-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6692",
+    manganame: "Diamond no Ace Act II",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/diamond-no-ace-act-ii/diamond-no-ace-act-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6166",
+    manganame: "Hadi Girl",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/hadi-girl/hadi-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3832",
+    manganame: "Kiwaguro no Brynhildr",
+    chapterno: "162",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/kiwaguro-no-brynhildr/kiwaguro-no-brynhildr-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4218",
+    manganame: "Joujuu Senjin!! Mushibugyo",
+    chapterno: "56",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/joujuu-senjin-mushibugyo/joujuu-senjin-mushibugyo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7184",
+    manganame: "Ayeshah’s Secret",
+    chapterno: "3",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/ayeshahs-secret/ayeshahs-secret-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7184",
+    manganame: "Ayeshah’s Secret",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/ayeshahs-secret/ayeshahs-secret-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "19",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7184",
+    manganame: "Ayeshah’s Secret",
+    chapterno: "1",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/ayeshahs-secret/ayeshahs-secret-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4103",
+    manganame: "Yasha",
+    chapterno: "37",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/yasha/yasha-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3874",
+    manganame: "Yamada-kun to 7-nin no Majo",
+    chapterno: "185",
+    hot: true,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/yamada-kun-to-7-nin-no-majo/yamada-kun-to-7-nin-no-majo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3874",
+    manganame: "Yamada-kun to 7-nin no Majo",
+    chapterno: "184",
+    hot: true,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/yamada-kun-to-7-nin-no-majo/yamada-kun-to-7-nin-no-majo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5242",
+    manganame: "UQ Holder!",
+    chapterno: "104",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/uq-holder/uq-holder-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5242",
+    manganame: "UQ Holder!",
+    chapterno: "103",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/uq-holder/uq-holder-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1079",
+    manganame: "Karate Shoukoushi Kohinata Minoru",
+    chapterno: "321",
+    hot: true,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/karate-shoukoushi-kohinata-minoru/karate-shoukoushi-kohinata-minoru-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1745",
+    manganame: "Secret",
+    chapterno: "35",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/secret/secret-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4210",
+    manganame: "Spirit Circle",
+    chapterno: "41",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/spirit-circle/spirit-circle-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4210",
+    manganame: "Spirit Circle",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/spirit-circle/spirit-circle-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4210",
+    manganame: "Spirit Circle",
+    chapterno: "39",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/spirit-circle/spirit-circle-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2598",
+    manganame: "Aoki Hagane no Arpeggio",
+    chapterno: "71",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/aoki-hagane-no-arpeggio/aoki-hagane-no-arpeggio-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6260",
+    manganame: "Okitenemuru",
+    chapterno: "35",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/okitenemuru/okitenemuru-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6260",
+    manganame: "Okitenemuru",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/okitenemuru/okitenemuru-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6260",
+    manganame: "Okitenemuru",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/okitenemuru/okitenemuru-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5464",
+    manganame: "Shirogane no Nina",
+    chapterno: "67",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shirogane-no-nina/shirogane-no-nina-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5280",
+    manganame: "Boku to Majo no Jikan",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/boku-to-majo-no-jikan/boku-to-majo-no-jikan-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5280",
+    manganame: "Boku to Majo no Jikan",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/boku-to-majo-no-jikan/boku-to-majo-no-jikan-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5280",
+    manganame: "Boku to Majo no Jikan",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/boku-to-majo-no-jikan/boku-to-majo-no-jikan-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6428",
+    manganame: "Tales of the Unusual",
+    chapterno: "105",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/tales-of-the-unusual/tales-of-the-unusual-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6722",
+    manganame: "TICKLE TOWN",
+    chapterno: "67",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/tickle-town/tickle-town-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6086",
+    manganame: "Hetalia - World Stars",
+    chapterno: "123",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/hetalia-world-stars/hetalia-world-stars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6408",
+    manganame: "Black Clover",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/black-clover/black-clover-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7100",
+    manganame: "Dusk Howler",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/dusk-howler/dusk-howler-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5702",
+    manganame: "Ballroom e Youkoso",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/ballroom-e-youkoso/ballroom-e-youkoso-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "699",
+    manganame: "Fantasista",
+    chapterno: "154",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/fantasista/fantasista-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4872",
+    manganame: "Sangokushi",
+    chapterno: "395",
+    hot: false,
+    new: false,
+    when: "02 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/sangokushi/sangokushi-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6136",
+    manganame: "New Game!",
+    chapterno: "25",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/new-game/new-game-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5618",
+    manganame: "Haru x Kiyo",
+    chapterno: "12",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/haru-x-kiyo/haru-x-kiyo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6304",
+    manganame: "The Legendary Moonlight Sculptor",
+    chapterno: "44",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/the-legendary-moonlight-sculptor/the-legendary-moonlight-sculptor-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3304",
+    manganame: "Amakusa 1637",
+    chapterno: "37",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/amakusa-1637/amakusa-1637-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3596",
+    manganame: "Chitose etc.",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/chitose-etc/chitose-etc-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6902",
+    manganame: "Baito Saki wa "
+    Aku no Soshiki "?!",
+    chapterno: "10",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/baito-saki-wa-aku-no-soshiki/baito-saki-wa-aku-no-soshiki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2020",
+    manganame: "Blood Lad",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/blood-lad/blood-lad-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6242",
+    manganame: "Kamigami no Asobi",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/kamigami-no-asobi/kamigami-no-asobi-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5702",
+    manganame: "Ballroom e Youkoso",
+    chapterno: "32",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/ballroom-e-youkoso/ballroom-e-youkoso-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6008",
+    manganame: "Shoukoku no Altair",
+    chapterno: "72",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/shoukoku-no-altair/shoukoku-no-altair-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6008",
+    manganame: "Shoukoku no Altair",
+    chapterno: "71",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/shoukoku-no-altair/shoukoku-no-altair-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "307",
+    manganame: "Gintama",
+    chapterno: "566",
+    hot: true,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/gintama/gintama-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5530",
+    manganame: "Wagaya no Oinarisama",
+    chapterno: "35",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/wagaya-no-oinarisama/wagaya-no-oinarisama-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5530",
+    manganame: "Wagaya no Oinarisama",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/wagaya-no-oinarisama/wagaya-no-oinarisama-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2350",
+    manganame: "Fist of Legend",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/fist-of-legend/fist-of-legend-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2350",
+    manganame: "Fist of Legend",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/fist-of-legend/fist-of-legend-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2350",
+    manganame: "Fist of Legend",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/fist-of-legend/fist-of-legend-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7118",
+    manganame: "Mukoubuchi",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/mukoubuchi/mukoubuchi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4816",
+    manganame: "Adventure of Sinbad - Prototype",
+    chapterno: "85",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/adventure-of-sinbad-prototype/adventure-of-sinbad-prototype-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4816",
+    manganame: "Adventure of Sinbad - Prototype",
+    chapterno: "84",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/adventure-of-sinbad-prototype/adventure-of-sinbad-prototype-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4816",
+    manganame: "Adventure of Sinbad - Prototype",
+    chapterno: "83",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/adventure-of-sinbad-prototype/adventure-of-sinbad-prototype-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4816",
+    manganame: "Adventure of Sinbad - Prototype",
+    chapterno: "82",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/adventure-of-sinbad-prototype/adventure-of-sinbad-prototype-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6722",
+    manganame: "TICKLE TOWN",
+    chapterno: "66",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/tickle-town/tickle-town-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1716",
+    manganame: "Noblesse",
+    chapterno: "382",
+    hot: true,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/noblesse/noblesse-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4872",
+    manganame: "Sangokushi",
+    chapterno: "394",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s5.mangapanda.com/cover/sangokushi/sangokushi-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "1234",
+    manganame: "Kurosagi",
+    chapterno: "99",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/kurosagi/kurosagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6342",
+    manganame: "Basuke no Megami-sama",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/basuke-no-megami-sama/basuke-no-megami-sama-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6716",
+    manganame: "Tales of Demons and Gods",
+    chapterno: "31",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tales-of-demons-and-gods/tales-of-demons-and-gods-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6104",
+    manganame: "Tokyo Ghoul:re",
+    chapterno: "55",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/tokyo-ghoulre/tokyo-ghoulre-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6806",
+    manganame: "A Simple Thinking About Blood Types",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/a-simple-thinking-about-blood-types/a-simple-thinking-about-blood-types-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "759",
+    manganame: "Natsume Yuujinchou",
+    chapterno: "79",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s2.mangapanda.com/cover/natsume-yuujinchou/natsume-yuujinchou-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3340",
+    manganame: "Nisekoi",
+    chapterno: "196",
+    hot: true,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/nisekoi/nisekoi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5930",
+    manganame: "Saike Mata Shite mo",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/saike-mata-shite-mo/saike-mata-shite-mo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6344",
+    manganame: "Roppongi Black Cross",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s3.mangapanda.com/cover/roppongi-black-cross/roppongi-black-cross-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6344",
+    manganame: "Roppongi Black Cross",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/roppongi-black-cross/roppongi-black-cross-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7130",
+    manganame: "Blackout",
+    chapterno: "31",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/blackout/blackout-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "53",
+    hot: false,
+    new: false,
+    when: "01 Dec 2015",
+    coverimg: "http://s4.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4540",
+    manganame: "Nanatsu no Taizai",
+    chapterno: "152",
+    hot: true,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/nanatsu-no-taizai/nanatsu-no-taizai-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "336",
+    manganame: "The Ravages of Time",
+    chapterno: "437",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/the-ravages-of-time/the-ravages-of-time-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "135",
+    manganame: "Fairy Tail",
+    chapterno: "464",
+    hot: true,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/fairy-tail/fairy-tail-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1007",
+    manganame: "To Aru Majutsu no Index",
+    chapterno: "68",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/to-aru-majutsu-no-index/to-aru-majutsu-no-index-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "7",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "3",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7178",
+    manganame: "White Epic",
+    chapterno: "1",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/white-epic/white-epic-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1096",
+    manganame: "Baby Steps",
+    chapterno: "252",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/baby-steps/baby-steps-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7172",
+    manganame: "Battle Rabbits",
+    chapterno: "3",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/battle-rabbits/battle-rabbits-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7172",
+    manganame: "Battle Rabbits",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/battle-rabbits/battle-rabbits-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7172",
+    manganame: "Battle Rabbits",
+    chapterno: "1",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/battle-rabbits/battle-rabbits-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5704",
+    manganame: "Otogi Taisen Fantasma",
+    chapterno: "10",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/otogi-taisen-fantasma/otogi-taisen-fantasma-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3358",
+    manganame: "Spotted Flower",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/spotted-flower/spotted-flower-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6266",
+    manganame: "ReLIFE",
+    chapterno: "106",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/relife/relife-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6920",
+    manganame: "I Don't Want to Say I'm a Chicken",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/i-dont-want-to-say-im-a-chicken/i-dont-want-to-say-im-a-chicken-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6086",
+    manganame: "Hetalia - World Stars",
+    chapterno: "122",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/hetalia-world-stars/hetalia-world-stars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6086",
+    manganame: "Hetalia - World Stars",
+    chapterno: "121",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/hetalia-world-stars/hetalia-world-stars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4856",
+    manganame: "Ring ni Kakero",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/ring-ni-kakero/ring-ni-kakero-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "4856",
+    manganame: "Ring ni Kakero",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/ring-ni-kakero/ring-ni-kakero-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3278",
+    manganame: "Akatsuki no Yona",
+    chapterno: "108",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/akatsuki-no-yona/akatsuki-no-yona-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3278",
+    manganame: "Akatsuki no Yona",
+    chapterno: "107",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/akatsuki-no-yona/akatsuki-no-yona-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3278",
+    manganame: "Akatsuki no Yona",
+    chapterno: "106",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/akatsuki-no-yona/akatsuki-no-yona-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4872",
+    manganame: "Sangokushi",
+    chapterno: "393",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/sangokushi/sangokushi-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6548",
+    manganame: "Mercworks",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/mercworks/mercworks-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5892",
+    manganame: "Wind Breaker",
+    chapterno: "48",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/wind-breaker/wind-breaker-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6356",
+    manganame: "THE DANEMEN",
+    chapterno: "79",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/the-danemen/the-danemen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1757",
+    manganame: "Tower of God",
+    chapterno: "258",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tower-of-god/tower-of-god-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5414",
+    manganame: "Seiketsu no Haguruma",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/seiketsu-no-haguruma/seiketsu-no-haguruma-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6560",
+    manganame: "Dolly Kill Kill",
+    chapterno: "65",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/dolly-kill-kill/dolly-kill-kill-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4820",
+    manganame: "Soredemo Sekai wa Utsukushii",
+    chapterno: "41",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/soredemo-sekai-wa-utsukushii/soredemo-sekai-wa-utsukushii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3744",
+    manganame: "Plus Tic Neesan",
+    chapterno: "94",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/plus-tic-neesan/plus-tic-neesan-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6716",
+    manganame: "Tales of Demons and Gods",
+    chapterno: "30",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/tales-of-demons-and-gods/tales-of-demons-and-gods-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6478",
+    manganame: "Shura no Mon Iden - Fudekage",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shura-no-mon-iden-fudekage/shura-no-mon-iden-fudekage-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1850",
+    manganame: "Kubera",
+    chapterno: "263",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/kubera/kubera-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1850",
+    manganame: "Kubera",
+    chapterno: "262",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/kubera/kubera-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1850",
+    manganame: "Kubera",
+    chapterno: "261",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kubera/kubera-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1850",
+    manganame: "Kubera",
+    chapterno: "260",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kubera/kubera-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "808",
+    manganame: "Bodyguard",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/bodyguard/bodyguard-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "52",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3112",
+    manganame: "Not Lives",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/not-lives/not-lives-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3966",
+    manganame: "Clover (TETSUHIRO Hirakawa)",
+    chapterno: "249",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/clover-tetsuhiro-hirakawa/clover-tetsuhiro-hirakawa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3166",
+    manganame: "Countach",
+    chapterno: "28",
+    hot: false,
+    new: false,
+    when: "30 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/countach/countach-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3166",
+    manganame: "Countach",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/countach/countach-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6818",
+    manganame: "Koi Inu.",
+    chapterno: "25",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/koi-inu/koi-inu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "392",
+    manganame: "Sketchbook",
+    chapterno: "125",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/sketchbook/sketchbook-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "392",
+    manganame: "Sketchbook",
+    chapterno: "124",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/sketchbook/sketchbook-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5800",
+    manganame: "Red Storm",
+    chapterno: "174",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/red-storm/red-storm-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1969",
+    manganame: "Destroy and Revolution",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/destroy-and-revolution/destroy-and-revolution-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3394",
+    manganame: "Verdant Lord",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/verdant-lord/verdant-lord-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6224",
+    manganame: "Blazing Ninjaman",
+    chapterno: "26",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/blazing-ninjaman/blazing-ninjaman-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6406",
+    manganame: "Average Adventures of an Average Girl",
+    chapterno: "39",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/average-adventures-of-an-average-girl/average-adventures-of-an-average-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6406",
+    manganame: "Average Adventures of an Average Girl",
+    chapterno: "38",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/average-adventures-of-an-average-girl/average-adventures-of-an-average-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6968",
+    manganame: "Star Wars",
+    chapterno: "20",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/star-wars/star-wars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5120",
+    manganame: "Flow",
+    chapterno: "76",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/flow/flow-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5120",
+    manganame: "Flow",
+    chapterno: "75",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/flow/flow-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5120",
+    manganame: "Flow",
+    chapterno: "74",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/flow/flow-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3242",
+    manganame: "Yasashii Sekai no Tsukurikata",
+    chapterno: "29",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/yasashii-sekai-no-tsukurikata/yasashii-sekai-no-tsukurikata-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6504",
+    manganame: "All That We Hope to Be",
+    chapterno: "59",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/all-that-we-hope-to-be/all-that-we-hope-to-be-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4032",
+    manganame: "Girls of the Wild's",
+    chapterno: "212",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/girls-of-the-wilds/girls-of-the-wilds-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2406",
+    manganame: "Cheese in the Trap",
+    chapterno: "77",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/cheese-in-the-trap/cheese-in-the-trap-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4145",
+    manganame: "Terra Formars",
+    chapterno: "154",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/terra-formars/terra-formars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4145",
+    manganame: "Terra Formars",
+    chapterno: "153",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/terra-formars/terra-formars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4145",
+    manganame: "Terra Formars",
+    chapterno: "152",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/terra-formars/terra-formars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3938",
+    manganame: "Haikyu!!",
+    chapterno: "184",
+    hot: false,
+    new: false,
+    when: "29 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/haikyu/haikyu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6992",
+    manganame: "Witch Workshop",
+    chapterno: "7",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/witch-workshop/witch-workshop-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "102",
+    manganame: "Kuroshitsuji",
+    chapterno: "110",
+    hot: true,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kuroshitsuji/kuroshitsuji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5396",
+    manganame: "Cherry Boy, That Girl",
+    chapterno: "77",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/cherry-boy-that-girl/cherry-boy-that-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6372",
+    manganame: "Himegoto - Juukyuusai no Seifuku",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/himegoto-juukyuusai-no-seifuku/himegoto-juukyuusai-no-seifuku-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "2021",
+    manganame: "Blazing Transfer Student",
+    chapterno: "118",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/blazing-transfer-student/blazing-transfer-student-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2062",
+    manganame: "Pygmalio",
+    chapterno: "115",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/pygmalio/pygmalio-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1825",
+    manganame: "Dragon Zakura",
+    chapterno: "69",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/dragon-zakura/dragon-zakura-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6100",
+    manganame: "Black Dog",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/black-dog/black-dog-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1730",
+    manganame: "Kingdom",
+    chapterno: "455",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/kingdom/kingdom-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5498",
+    manganame: "Lessa the Crimson Knight",
+    chapterno: "97",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/lessa-the-crimson-knight/lessa-the-crimson-knight-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6356",
+    manganame: "THE DANEMEN",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/the-danemen/the-danemen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5590",
+    manganame: "Mahou Tsukai no Yome",
+    chapterno: "25",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/mahou-tsukai-no-yome/mahou-tsukai-no-yome-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "330",
+    manganame: "Akagi",
+    chapterno: "269",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/akagi/akagi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "139",
+    manganame: "Detective Conan",
+    chapterno: "940",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/detective-conan/detective-conan-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5590",
+    manganame: "Mahou Tsukai no Yome",
+    chapterno: "24",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/mahou-tsukai-no-yome/mahou-tsukai-no-yome-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5964",
+    manganame: "Yuusha Gojo Kumiai Kouryuugata Keijiban",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/yuusha-gojo-kumiai-kouryuugata-keijiban/yuusha-gojo-kumiai-kouryuugata-keijiban-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "961",
+    manganame: "Tantei Gakuen Q",
+    chapterno: "82",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/tantei-gakuen-q/tantei-gakuen-q-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "961",
+    manganame: "Tantei Gakuen Q",
+    chapterno: "81",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/tantei-gakuen-q/tantei-gakuen-q-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2720",
+    manganame: "Monokuro Shounen Shoujo",
+    chapterno: "39",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/monokuro-shounen-shoujo/monokuro-shounen-shoujo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "936",
+    manganame: "Shut Hell",
+    chapterno: "59",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/shut-hell/shut-hell-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6474",
+    manganame: "Action Idols - Age of Young Dragons",
+    chapterno: "25",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/action-idols-age-of-young-dragons/action-idols-age-of-young-dragons-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4310",
+    manganame: "Assassination Classroom",
+    chapterno: "166",
+    hot: true,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/assassination-classroom/assassination-classroom-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5604",
+    manganame: "Looking for a Father",
+    chapterno: "44",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/looking-for-a-father/looking-for-a-father-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6842",
+    manganame: "My Shiny World",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/my-shiny-world/my-shiny-world-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1969",
+    manganame: "Destroy and Revolution",
+    chapterno: "60",
+    hot: false,
+    new: false,
+    when: "28 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/destroy-and-revolution/destroy-and-revolution-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6214",
+    manganame: "Battle Through The Heavens",
+    chapterno: "142",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/battle-through-the-heavens/battle-through-the-heavens-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "395",
+    manganame: "Over Drive",
+    chapterno: "74",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/over-drive/over-drive-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "2820",
+    manganame: "Akatsuki!! Otokojuku",
+    chapterno: "109",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/akatsuki-otokojuku/akatsuki-otokojuku-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "4454",
+    manganame: "Renai Boukun",
+    chapterno: "26",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/renai-boukun/renai-boukun-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3698",
+    manganame: "Stalker",
+    chapterno: "33",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/stalker/stalker-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3698",
+    manganame: "Stalker",
+    chapterno: "32",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/stalker/stalker-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4712",
+    manganame: "Shokugeki no Soma",
+    chapterno: "145",
+    hot: true,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/shokugeki-no-soma/shokugeki-no-soma-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "349",
+    manganame: "Toriko",
+    chapterno: "349",
+    hot: true,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/toriko/toriko-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5660",
+    manganame: "Fuuka",
+    chapterno: "86",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/fuuka/fuuka-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5660",
+    manganame: "Fuuka",
+    chapterno: "85",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/fuuka/fuuka-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5660",
+    manganame: "Fuuka",
+    chapterno: "84",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/fuuka/fuuka-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "3",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7166",
+    manganame: "Black Survival",
+    chapterno: "1",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/black-survival/black-survival-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6322",
+    manganame: "Autophagy Regulation",
+    chapterno: "31",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/autophagy-regulation/autophagy-regulation-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "94",
+    manganame: "Bleach",
+    chapterno: "653",
+    hot: true,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/bleach/bleach-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7058",
+    manganame: "Haikou Dolls",
+    chapterno: "11",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/haikou-dolls/haikou-dolls-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "50",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4542",
+    manganame: "I Don't Want This Kind of Hero",
+    chapterno: "77",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/i-dont-want-this-kind-of-hero/i-dont-want-this-kind-of-hero-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6734",
+    manganame: "How to Love",
+    chapterno: "58",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/how-to-love/how-to-love-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2438",
+    manganame: "The God of High School",
+    chapterno: "237",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/the-god-of-high-school/the-god-of-high-school-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6386",
+    manganame: "Newman",
+    chapterno: "53",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/newman/newman-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "103",
+    manganame: "One Piece",
+    chapterno: "808",
+    hot: true,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/one-piece/one-piece-m1.jpg",
+    status: "open"
+}, {
+    mangaid: "406",
+    manganame: "Ao No Exorcist",
+    chapterno: "73",
+    hot: true,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/ao-no-exorcist/ao-no-exorcist-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6340",
+    manganame: "Lookism",
+    chapterno: "49",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/lookism/lookism-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6072",
+    manganame: "4 God Ranger",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/4-god-ranger/4-god-ranger-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "718",
+    manganame: "Obaka-chan Koigatariki",
+    chapterno: "31",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/obaka-chan-koigatariki/obaka-chan-koigatariki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "985",
+    manganame: "Nagato Yuki-chan no Shoushitsu",
+    chapterno: "67",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/nagato-yuki-chan-no-shoushitsu/nagato-yuki-chan-no-shoushitsu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4634",
+    manganame: "Horimiya",
+    chapterno: "57",
+    hot: false,
+    new: false,
+    when: "27 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/horimiya/horimiya-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6546",
+    manganame: "Dragon Ball Super",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/dragon-ball-super/dragon-ball-super-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5738",
+    manganame: "87 Clockers",
+    chapterno: "39",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/87-clockers/87-clockers-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6698",
+    manganame: "Combat Continent II",
+    chapterno: "50",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/combat-continent-ii/combat-continent-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "203",
+    manganame: "Hayate the Combat Butler",
+    chapterno: "512",
+    hot: true,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/hayate-the-combat-butler/hayate-the-combat-butler-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3988",
+    manganame: "Soul Cartel",
+    chapterno: "203",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/soul-cartel/soul-cartel-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6346",
+    manganame: "Lan Chi",
+    chapterno: "32",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/lan-chi/lan-chi-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6340",
+    manganame: "Lookism",
+    chapterno: "48",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/lookism/lookism-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "419",
+    manganame: "Amatsuki",
+    chapterno: "91",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/amatsuki/amatsuki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6556",
+    manganame: "Guarding",
+    chapterno: "18",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/guarding/guarding-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5106",
+    manganame: "Gin to Kin",
+    chapterno: "81",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/gin-to-kin/gin-to-kin-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "13",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5294",
+    manganame: "The Gamer",
+    chapterno: "109",
+    hot: true,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/the-gamer/the-gamer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5294",
+    manganame: "The Gamer",
+    chapterno: "108",
+    hot: true,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/the-gamer/the-gamer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "125",
+    manganame: "Vinland Saga",
+    chapterno: "122",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/vinland-saga/vinland-saga-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "12",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "11",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "10",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "8",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "7",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "3",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7160",
+    manganame: "Sennen Meikyuu no Nana Ouji",
+    chapterno: "1",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/sennen-meikyuu-no-nana-ouji/sennen-meikyuu-no-nana-ouji-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3068",
+    manganame: "Akame ga Kiru!",
+    chapterno: "65",
+    hot: true,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/akame-ga-kiru/akame-ga-kiru-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5094",
+    manganame: "Nukoduke!",
+    chapterno: "69",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/nukoduke/nukoduke-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6124",
+    manganame: "Boukyaku no Shirushi to Hime",
+    chapterno: "6",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/boukyaku-no-shirushi-to-hime/boukyaku-no-shirushi-to-hime-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6124",
+    manganame: "Boukyaku no Shirushi to Hime",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/boukyaku-no-shirushi-to-hime/boukyaku-no-shirushi-to-hime-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6902",
+    manganame: "Baito Saki wa "
+    Aku no Soshiki "?!",
+    chapterno: "9",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/baito-saki-wa-aku-no-soshiki/baito-saki-wa-aku-no-soshiki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6422",
+    manganame: "Dead Days",
+    chapterno: "61",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/dead-days/dead-days-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6968",
+    manganame: "Star Wars",
+    chapterno: "19",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/star-wars/star-wars-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5046",
+    manganame: "Masamune-kun no Revenge",
+    chapterno: "26",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/masamune-kun-no-revenge/masamune-kun-no-revenge-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "49",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "48",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6544",
+    manganame: "Doodle for Food",
+    chapterno: "47",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/doodle-for-food/doodle-for-food-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5884",
+    manganame: "Witch Hunt",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/witch-hunt/witch-hunt-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1629",
+    manganame: "under PRIN",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/under-prin/under-prin-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6734",
+    manganame: "How to Love",
+    chapterno: "57",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/how-to-love/how-to-love-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6504",
+    manganame: "All That We Hope to Be",
+    chapterno: "58",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/all-that-we-hope-to-be/all-that-we-hope-to-be-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6692",
+    manganame: "Diamond no Ace Act II",
+    chapterno: "14",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/diamond-no-ace-act-ii/diamond-no-ace-act-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5186",
+    manganame: "Jitsu wa Watashi wa",
+    chapterno: "102",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/jitsu-wa-watashi-wa/jitsu-wa-watashi-wa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6378",
+    manganame: "Nisekoi Doumei.",
+    chapterno: "51",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/nisekoi-doumei/nisekoi-doumei-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "335",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "334",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "333",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "332",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "331",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1376",
+    manganame: "Shinryaku Ika Musume",
+    chapterno: "330",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/shinryaku-ika-musume/shinryaku-ika-musume-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5930",
+    manganame: "Saike Mata Shite mo",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/saike-mata-shite-mo/saike-mata-shite-mo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5950",
+    manganame: "Crayon Days - Daikirai na Aitsu",
+    chapterno: "22",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/crayon-days-daikirai-na-aitsu/crayon-days-daikirai-na-aitsu-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5950",
+    manganame: "Crayon Days - Daikirai na Aitsu",
+    chapterno: "21",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/crayon-days-daikirai-na-aitsu/crayon-days-daikirai-na-aitsu-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "2720",
+    manganame: "Monokuro Shounen Shoujo",
+    chapterno: "38",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/monokuro-shounen-shoujo/monokuro-shounen-shoujo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2720",
+    manganame: "Monokuro Shounen Shoujo",
+    chapterno: "37",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/monokuro-shounen-shoujo/monokuro-shounen-shoujo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5498",
+    manganame: "Lessa the Crimson Knight",
+    chapterno: "96",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/lessa-the-crimson-knight/lessa-the-crimson-knight-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5498",
+    manganame: "Lessa the Crimson Knight",
+    chapterno: "95",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/lessa-the-crimson-knight/lessa-the-crimson-knight-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5646",
+    manganame: "Sen to Man",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/sen-to-man/sen-to-man-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3744",
+    manganame: "Plus Tic Neesan",
+    chapterno: "93",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/plus-tic-neesan/plus-tic-neesan-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1233",
+    manganame: "7 Seeds",
+    chapterno: "148",
+    hot: false,
+    new: false,
+    when: "26 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/7-seeds/7-seeds-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "701",
+    manganame: "Piano no Mori",
+    chapterno: "178",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/piano-no-mori/piano-no-mori-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6278",
+    manganame: "He Is a High-school Girl",
+    chapterno: "37",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/he-is-a-high-school-girl/he-is-a-high-school-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6278",
+    manganame: "He Is a High-school Girl",
+    chapterno: "36",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/he-is-a-high-school-girl/he-is-a-high-school-girl-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "498",
+    manganame: "Dear Boys",
+    chapterno: "12",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/dear-boys/dear-boys-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5126",
+    manganame: "Black Haze",
+    chapterno: "136",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/black-haze/black-haze-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5676",
+    manganame: "One Week Friends",
+    chapterno: "36",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/one-week-friends/one-week-friends-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3384",
+    manganame: "Osu!! Karatebu",
+    chapterno: "136",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/osu-karatebu/osu-karatebu-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5490",
+    manganame: "Shinozaki-san Ki wo Ota Shika ni!",
+    chapterno: "27",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/shinozaki-san-ki-wo-ota-shika-ni/shinozaki-san-ki-wo-ota-shika-ni-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5490",
+    manganame: "Shinozaki-san Ki wo Ota Shika ni!",
+    chapterno: "26",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/shinozaki-san-ki-wo-ota-shika-ni/shinozaki-san-ki-wo-ota-shika-ni-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3958",
+    manganame: "Area D - Inou Ryouiki",
+    chapterno: "132",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/area-d-inou-ryouiki/area-d-inou-ryouiki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6486",
+    manganame: "Full Dozer",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/full-dozer/full-dozer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "335",
+    manganame: "Zettai Karen Children",
+    chapterno: "426",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/zettai-karen-children/zettai-karen-children-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3966",
+    manganame: "Clover (TETSUHIRO Hirakawa)",
+    chapterno: "248",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/clover-tetsuhiro-hirakawa/clover-tetsuhiro-hirakawa-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7142",
+    manganame: "Fairy Tail Gaiden - Road Knight",
+    chapterno: "2",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/fairy-tail-gaiden-road-knight/fairy-tail-gaiden-road-knight-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6486",
+    manganame: "Full Dozer",
+    chapterno: "17",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/full-dozer/full-dozer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6486",
+    manganame: "Full Dozer",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/full-dozer/full-dozer-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4738",
+    manganame: "Kamisama no Iutoori II",
+    chapterno: "135",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/kamisama-no-iutoori-ii/kamisama-no-iutoori-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4738",
+    manganame: "Kamisama no Iutoori II",
+    chapterno: "134",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kamisama-no-iutoori-ii/kamisama-no-iutoori-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4738",
+    manganame: "Kamisama no Iutoori II",
+    chapterno: "133",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kamisama-no-iutoori-ii/kamisama-no-iutoori-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4738",
+    manganame: "Kamisama no Iutoori II",
+    chapterno: "132",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/kamisama-no-iutoori-ii/kamisama-no-iutoori-ii-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "533",
+    manganame: "Cesare",
+    chapterno: "79",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/cesare/cesare-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "533",
+    manganame: "Cesare",
+    chapterno: "78",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/cesare/cesare-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5840",
+    manganame: "Shonan Seven",
+    chapterno: "16",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/shonan-seven/shonan-seven-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4684",
+    manganame: " Tobaku Datenroku Kaiji: Kazuyahen",
+    chapterno: "100",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tobaku-datenroku-kaiji-kazuyahen/tobaku-datenroku-kaiji-kazuyahen-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6428",
+    manganame: "Tales of the Unusual",
+    chapterno: "104",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tales-of-the-unusual/tales-of-the-unusual-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6722",
+    manganame: "TICKLE TOWN",
+    chapterno: "65",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tickle-town/tickle-town-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1745",
+    manganame: "Secret",
+    chapterno: "34",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/secret/secret-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5046",
+    manganame: "Masamune-kun no Revenge",
+    chapterno: "25",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/masamune-kun-no-revenge/masamune-kun-no-revenge-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2700",
+    manganame: "Grappler Baki",
+    chapterno: "136",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/grappler-baki/grappler-baki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2700",
+    manganame: "Grappler Baki",
+    chapterno: "135",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/grappler-baki/grappler-baki-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4438",
+    manganame: "Tetsugaku Letra",
+    chapterno: "23",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/tetsugaku-letra/tetsugaku-letra-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5778",
+    manganame: "Cat's Eye",
+    chapterno: "88",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/cats-eye/cats-eye-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6818",
+    manganame: "Koi Inu.",
+    chapterno: "24",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/koi-inu/koi-inu-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1096",
+    manganame: "Baby Steps",
+    chapterno: "251",
+    hot: false,
+    new: false,
+    when: "25 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/baby-steps/baby-steps-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "7100",
+    manganame: "Dusk Howler",
+    chapterno: "19",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/dusk-howler/dusk-howler-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1894",
+    manganame: "Tokyo ESP",
+    chapterno: "67",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/tokyo-esp/tokyo-esp-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "6004",
+    manganame: "Super Doctor K",
+    chapterno: "35",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/super-doctor-k/super-doctor-k-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "3652",
+    manganame: "Un-Go - Ingaron",
+    chapterno: "5",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s5.mangapanda.com/cover/un-go-ingaron/un-go-ingaron-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3652",
+    manganame: "Un-Go - Ingaron",
+    chapterno: "4",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/un-go-ingaron/un-go-ingaron-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5410",
+    manganame: "Tanaka-kun wa Itsumo Kedaruge",
+    chapterno: "15",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/tanaka-kun-wa-itsumo-kedaruge/tanaka-kun-wa-itsumo-kedaruge-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "1036",
+    manganame: "Mother Keeper",
+    chapterno: "58",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s1.mangapanda.com/cover/mother-keeper/mother-keeper-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3554",
+    manganame: "Knight Run",
+    chapterno: "85",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/knight-run/knight-run-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "3554",
+    manganame: "Knight Run",
+    chapterno: "84",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/knight-run/knight-run-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2882",
+    manganame: "Blood and Steel",
+    chapterno: "65",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s2.mangapanda.com/cover/blood-and-steel/blood-and-steel-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "2930",
+    manganame: "Honorable Baek Dong Soo",
+    chapterno: "43",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/honorable-baek-dong-soo/honorable-baek-dong-soo-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "4750",
+    manganame: "World Trigger",
+    chapterno: "122",
+    hot: true,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/world-trigger/world-trigger-m0.jpg",
+    status: "open"
+}, {
+    mangaid: "5670",
+    manganame: "The Legendary Musings of Professor Munakata",
+    chapterno: "40",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s3.mangapanda.com/cover/the-legendary-musings-of-professor-munakata/the-legendary-musings-of-professor-munakata-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "5670",
+    manganame: "The Legendary Musings of Professor Munakata",
+    chapterno: "38",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-legendary-musings-of-professor-munakata/the-legendary-musings-of-professor-munakata-m0.jpg",
+    status: "close"
+}, {
+    mangaid: "6356",
+    manganame: "THE DANEMEN",
+    chapterno: "77",
+    hot: false,
+    new: false,
+    when: "24 Nov 2015",
+    coverimg: "http://s4.mangapanda.com/cover/the-danemen/the-danemen-m0.jpg",
+    status: "open"
+}]
